@@ -19,3 +19,8 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+/WebSocket/WebSocket.Client/bin/Debug/net5.0
+/WebSocket/WebSocket.Client/obj
+/WebSocket/WebSocket.Server/obj
+/WebSocket/WebSocket.Server/bin/Debug/net5.0
+/.vs
